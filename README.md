@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @menzheha-maxym
+- 👋 Hi, I’m @menzheha-maksym
 - 👀 I’m interested in procrastination
 - 🌱 I’m currently learning JavaScript
 
